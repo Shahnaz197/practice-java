@@ -1,5 +1,3 @@
-package src.src;
-
 import java.util.Scanner;
 
 public class mathQue {

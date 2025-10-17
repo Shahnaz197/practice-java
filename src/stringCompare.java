@@ -1,5 +1,3 @@
-package src.src;
-
 public class stringCompare {
     public static void main(String[] args) {
         String name1 = "White";

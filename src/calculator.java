@@ -39,9 +39,9 @@ public class calculator {
                 validOperator = false;
             }
         }
-        if(validOperator) {
+      /*  if(validOperator) {
             System.out.println(result);
         }
-
+*/
     }
 }
